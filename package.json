@@ -1,0 +1,20 @@
+{
+  "name": "chippy",
+  "version": "1.0.0",
+  "description": "Bestenlisten Crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Bestenlisten",
+    "Chip",
+    "Crawler",
+    "Json"
+  ],
+  "author": "ndeethedandee",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mongodb": "^2.2.31"
+  }
+}
